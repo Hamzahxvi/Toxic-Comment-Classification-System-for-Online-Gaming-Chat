@@ -1,6 +1,3 @@
-# Toxic-Comment-Classification-System-for-Online-Gaming-Chat
-A BERT-based NLP system that detects and classifies toxic behavior in real-time gaming chat using domain-specific fine-tuning and a Streamlit web interface.
-
 # 🎮 Toxic Comment Classification System for Online Gaming Chat
 
 A machine learning-based system that detects toxic behavior in real-time gaming chat using advanced Natural Language Processing (NLP) techniques. This project leverages a fine-tuned BERT model to understand gaming-specific language, slang, and contextual nuances.
