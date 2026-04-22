@@ -94,7 +94,7 @@ This project introduces a **context-aware toxic comment classifier** designed sp
 
 ### 1. Clone the repository :
 
-git clone https://github.com/your-username/toxic-gaming-classifier.git
+git clone https://github.com/Hamzahxvi/toxic-gaming-classifier.git
 cd toxic-gaming-classifier
 
 ### 2. Install dependencies :
