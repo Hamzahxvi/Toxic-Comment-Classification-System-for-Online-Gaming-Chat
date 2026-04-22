@@ -1,4 +1,4 @@
-### Model link download : https://drive.google.com/drive/folders/1t3iBbFy15aJZUt9wqWOO7Nt8UAOnNyBo?usp=drive_link
+Model link download : https://drive.google.com/drive/folders/1t3iBbFy15aJZUt9wqWOO7Nt8UAOnNyBo?usp=drive_link
 
 # 🎮 Toxic Comment Classification System for Online Gaming Chat
 
