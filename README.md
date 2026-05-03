@@ -20,7 +20,7 @@ This project introduces a **context-aware toxic comment classifier** designed sp
 
 ## 🚀 Features
 
-- 🧠 **BERT-based classification model**
+- 🧠 **DistilBERT-based classification model**
 - 🎮 **Gaming-specific slang understanding** (e.g., "noob", "gg", "ff")
 - ⚡ **Real-time prediction**
 - 📊 **Probability-based toxicity scoring**
@@ -31,7 +31,7 @@ This project introduces a **context-aware toxic comment classifier** designed sp
 
 ## 🏗️ System Architecture
 
- User Input → Preprocessing → Tokenization → BERT Model → Classification Output
+ User Input → Preprocessing → Tokenization → DistilBERT Model → Classification Output
 
  
 - **Frontend**: Streamlit Web Interface  
