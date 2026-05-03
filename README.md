@@ -2,9 +2,9 @@ Model link download : https://drive.google.com/drive/folders/1t3iBbFy15aJZUt9wqW
 
 Dataset : https://drive.google.com/drive/folders/1y_xth4fYxDL4z4iGuXLFhaxdAXN2X1Uu?usp=sharing
 
-# 🎮 Toxic Comment Classification System for Online Gaming Chat
+# 🎮Real-Time Toxic Comment Classification for Online Gaming Chat Using DistilBERT
 
-A machine learning-based system that detects toxic behavior in real-time gaming chat using advanced Natural Language Processing (NLP) techniques. This project leverages a fine-tuned BERT model to understand gaming-specific language, slang, and contextual nuances.
+A machine learning-based system that detects toxic behavior in real-time gaming chat using advanced Natural Language Processing (NLP) techniques. This project leverages a fine-tuned DistilBERT model to understand gaming-specific language, slang, and contextual nuances.
 
 ---
 
